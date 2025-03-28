@@ -10,7 +10,8 @@ Who is it for?
 
 # Solution Design
 
-![Alt text](solution design.svg)
+![Solution Design](solution-design.svg)
+
 
 
 
