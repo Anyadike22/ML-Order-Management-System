@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" style="font-family: Arial, sans-serif;">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f0f0f0"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-size="20" font-weight="bold">ML Order Management System - Solution Design</text>
+  
+  <!-- Client-Side Layer -->
+  <rect x="50" y="80" width="700" height="100" fill="#e6f2ff" stroke="#3399ff" stroke-width="2"/>
+  <text x="400" y="100" text-anchor="middle" font-size="16" font-weight="bold">Client Layer</text>
+  <text x="400" y="130" text-anchor="middle" font-size="14">
+    React Web Application
+  </text>
+  <path d="M250 180 L250 220" stroke="#3399ff" stroke-dasharray="5,5"/>
+  <path d="M550 180 L550 220" stroke="#3399ff" stroke-dasharray="5,5"/>
+  
+  <!-- Authentication Layer -->
+  <rect x="50" y="220" width="700" height="80" fill="#fff2e6" stroke="#ff9933" stroke-width="2"/>
+  <text x="400" y="240" text-anchor="middle" font-size="16" font-weight="bold">Authentication Layer</text>
+  <text x="400" y="270" text-anchor="middle" font-size="14">
+    Auth0 Identity Management
+  </text>
+  <path d="M250 300 L250 340" stroke="#ff9933" stroke-dasharray="5,5"/>
+  <path d="M550 300 L550 340" stroke="#ff9933" stroke-dasharray="5,5"/>
+  
+  <!-- Backend Layer -->
+  <rect x="50" y="340" width="700" height="100" fill="#e6ffe6" stroke="#33cc33" stroke-width="2"/>
+  <text x="400" y="360" text-anchor="middle" font-size="16" font-weight="bold">Backend Layer</text>
+  <text x="400" y="390" text-anchor="middle" font-size="14">
+    Node.js Express API
+  </text>
+  <path d="M250 440 L250 480" stroke="#33cc33" stroke-dasharray="5,5"/>
+  <path d="M550 440 L550 480" stroke="#33cc33" stroke-dasharray="5,5"/>
+  
+  <!-- Data Layer -->
+  <rect x="50" y="480" width="350" height="100" fill="#ffe6e6" stroke="#ff3333" stroke-width="2"/>
+  <text x="225" y="500" text-anchor="middle" font-size="16" font-weight="bold">Data Layer</text>
+  <text x="225" y="530" text-anchor="middle" font-size="14">
+    NoSQL Database (MongoDB)
+  </text>
+  
+  <!-- Machine Learning Layer -->
+  <rect x="400" y="480" width="350" height="100" fill="#f2e6ff" stroke="#9933ff" stroke-width="2"/>
+  <text x="575" y="500" text-anchor="middle" font-size="16" font-weight="bold">ML Layer</text>
+  <text x="575" y="530" text-anchor="middle" font-size="14">
+    Python Predictive Models
+  </text>
+  
+  <!-- Arrows showing interactions -->
+  <path d="M400 140 L450 140 Q500 140, 500 220" 
+        fill="none" stroke="#3399ff" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <path d="M400 260 L450 260 Q500 260, 500 340" 
+        fill="none" stroke="#ff9933" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <path d="M400 390 L450 390 Q500 390, 500 480" 
+        fill="none" stroke="#33cc33" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrowhead marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" 
+            refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
+    </marker>
+  </defs>
+</svg>
