@@ -98,6 +98,19 @@ Prerequisites
 ![System Design](system-design.png)
 
 
+# Detailed Architecture 
+
+![detailed architecture](detailed-architecture.svg)
+
+
+
+
+
+
+
+
+
+
 # Steps
 
 ## 1.Clone the repository
