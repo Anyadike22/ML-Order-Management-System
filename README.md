@@ -92,6 +92,12 @@ Prerequisites
 ### MongoDB
 ### Python (v3.8+)
 
+
+# System Design 
+
+![Solution Design](system-design.svg)
+
+
 # Steps
 
 ## 1.Clone the repository
