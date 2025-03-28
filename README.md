@@ -95,7 +95,7 @@ Prerequisites
 
 # System Design 
 
-![Solution Design](system-design.svg)
+![System Design](system-design.png)
 
 
 # Steps
