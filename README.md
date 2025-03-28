@@ -9,3 +9,5 @@ Business Owners: Managers and administrators needing a robust system to track an
 Tech Enthusiasts: Developers interested in a full-stack machine learning application implementation
 
 # Solution Design
+
+![.](solution design)
