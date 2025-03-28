@@ -10,4 +10,4 @@ Tech Enthusiasts: Developers interested in a full-stack machine learning applica
 
 # Solution Design
 
-![.](solution design)
+![](solution design)
