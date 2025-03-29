@@ -100,7 +100,7 @@ Prerequisites
 
 # Detailed Architecture
 
-
+![detailed architecture](detailed-architecture.png)
 
 
 
