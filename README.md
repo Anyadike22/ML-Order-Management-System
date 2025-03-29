@@ -98,7 +98,7 @@ Prerequisites
 ![System Design](system-design.png)
 
 
-# Detailed Architecture 
+# Detailed Architecture
 
 ![detailed architecture](detailed-architecture.svg)
 
