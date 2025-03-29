@@ -31,7 +31,7 @@ Who is it for?
 ### Machine Learning Layer: Predictive models for order optimization
 
 ## High-Level Requirements
-Customer Use Cases
+## Customer Use Cases
 
 ### As a customer, I need to be able to create a new order
 ### As a customer, I need to be able to update an existing order
@@ -100,7 +100,7 @@ Prerequisites
 
 # Detailed Architecture
 
-![detailed architecture](detailed-architecture.svg)
+
 
 
 
