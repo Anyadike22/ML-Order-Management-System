@@ -47,10 +47,6 @@ The machine learning component adds an intelligent layer to what would otherwise
 
 
 
-
-
-
-
 ## The solution is designed with a layered approach:
 
 * Presentation Layer: React-based web interface
@@ -80,12 +76,6 @@ The machine learning component adds an intelligent layer to what would otherwise
  * Owner dashboard for order management
  * Integrated unit and integration tests
 
-# Assumptions
-
-### Customer will primarily use the web application
-### Initial version does not require complex reporting
-### Basic machine learning predictions will be implemented
-### Scalability is a future consideration
 
 # Future Enhancements
 
@@ -97,10 +87,10 @@ The machine learning component adds an intelligent layer to what would otherwise
 
 # Challenges
 
-### Version incompatibility between libraries
-### Integrating machine learning models with web application
-### Ensuring smooth user authentication
-### Maintaining performance with increasing order volume
+* Version incompatibility between libraries
+* Integrating machine learning models with web application
+* Ensuring smooth user authentication
+* Maintaining performance with increasing order volume
 
 # Design Decisions
 NoSQL vs Relational Database
@@ -130,9 +120,6 @@ Prerequisites
 # Detailed Architecture
 
 ![detailed architecture](detailed-architecture.png)
-
-
-
 
 
 
