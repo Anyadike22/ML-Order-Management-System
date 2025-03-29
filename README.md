@@ -33,9 +33,9 @@ Who is it for?
 ## High-Level Requirements
 ## Customer Use Cases
 
-### As a customer, I need to be able to create a new order
-### As a customer, I need to be able to update an existing order
-### As a customer, I need to be able to cancel a new order
+* As a customer, I need to be able to create a new order
+* As a customer, I need to be able to update an existing order
+* As a customer, I need to be able to cancel a new order
 
 ## Owner Use Cases
 
